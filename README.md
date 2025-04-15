@@ -1,5 +1,5 @@
 # Bobbi_Starfire
-Fully through hole, integrated version of DIY Perks Mic
+Fully through hole, integrated version of DIY Perks Mic based on the THAT1512.
 
 Currently experimental (I need to validate some of the capacitors fit). Can be made on dual layer board but the extra layers provide both strength and extra screening.
 
